@@ -1,4 +1,4 @@
--   repo: git://github.com/pre-commit/pre-commit-hooks
+-   repo: git://github.com/eznd/pre-commit-hooks
     sha: v0.7.1
     hooks:
       -   id: check-merge-conflict
